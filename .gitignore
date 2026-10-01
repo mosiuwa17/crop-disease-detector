@@ -1,0 +1,23 @@
+# PyCharm
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets (too large for GitHub)
+plantvillage/
+plantvillage.zip
+new-plant-diseases-dataset.zip
+new-plant-diseases-dataset.zip.kaggle-partial
+*.zip
+*.zip.kaggle-partial
+
+# App outputs
+diagnosis_history*.csv
+diagnosis_reports/
+thumbnails/
+
+# OS
+.DS_Store
+Thumbs.db
